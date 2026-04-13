@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # ============================================================================== 
-# OMNI-DEPLOY HOST SETUP (NVIDIA CUDA + AMD VULKAN ADAPTIVE) 
+# OMNI-DEPLOY HOST SETUP (NVIDIA CUDA + AMD VULKAN ADAPTIVE)
 # ============================================================================== 
 POWER_LIMIT=270
 GO_SCRIPT="main.go"
